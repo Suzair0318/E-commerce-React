@@ -1,0 +1,20 @@
+.table-h{
+    padding-bottom: 0px;
+
+}
+
+.figure-img{
+    margin-bottom: 0px;
+}
+
+.contont{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+
+}
+
+.dis {
+    font-size: 30px;
+}

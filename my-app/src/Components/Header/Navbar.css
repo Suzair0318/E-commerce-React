@@ -1,0 +1,16 @@
+
+.collapse{
+    margin-left: 1000px;
+}
+
+.icon-cart:hover{
+     color: rgb(138, 233, 161);
+}
+
+.cart-total{
+    font-size: 10px;
+   font: bold;
+    background-color: rgb(5, 247, 114);
+    border-radius: 20px;
+    
+}
